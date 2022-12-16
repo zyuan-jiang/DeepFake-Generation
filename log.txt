@@ -1,0 +1,7 @@
+baseline: From Zhengyuan, a naive try
+2.0 & 2.1:  data = Biden,   lr = 0.05, epoch = 50,  test acc = 95.34%
+2.2:        data = Biden,   lr = 0.01, epoch = 50,  test acc = 99.87%
+2.3:        data = reenact, lr = 0.02, epoch = 100, test acc = 75.00%
+2.4:        data = reenact, lr = 0.01, epoch = 300, test acc = 83.33%
+2.5:        data = reenact, lr = 0.01, epoch = 500, test acc = 86.67%
+2.6:        data = reenact, lr = 0.01, epoch = 1000, test acc = 90.83%
