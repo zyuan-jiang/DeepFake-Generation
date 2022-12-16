@@ -18,6 +18,6 @@ Git clone the repo;
 
 Unzip the rar dataset files. Note that "training set reenact" and "testing set reenact" are the dataset for face-reenactment detection. 
 
-If you need the dataset for face-swap detection, click [here](https://drive.google.com/drive/folders/1y0lLTcZF28Q9am1rbuvTwiDX3tdetRq0?usp=sharing) for training set and [here](https://drive.google.com/drive/folders/1o9OxgNaWiWEvj2YGLg7rbrYA9QRHqKlE?usp=sharing) for testing set.
- 
+If you need the dataset for face-swap detection, click [here](https://drive.google.com/drive/folders/1o9OxgNaWiWEvj2YGLg7rbrYA9QRHqKlE?usp=sharing, https://drive.google.com/drive/folders/1y0lLTcZF28Q9am1rbuvTwiDX3tdetRq0?usp=sharing).
+
 Run the classifier ipynb files and check the results. Note that you can find the description of these classifiers in log.txt.
